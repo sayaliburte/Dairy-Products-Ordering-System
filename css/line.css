@@ -1,0 +1,19 @@
+
+.line
+{
+	border:1px solid;
+	white-space:no-wrap;
+	text-align:center;
+	overflow:hidden;
+}
+.hr
+{
+	width:20%;
+}
+body
+{ 
+padding-top: 50px;
+background-image:url("images/milk2.jpg");
+background-size:cover;
+background-attachment:fixed;
+}
